@@ -107,7 +107,7 @@ Create a new Security Group named:
 `ACCOUNTANTS`
 
 <p>
-<img width="856" height="601" alt="image" src="https://github.com/user-attachments/assets/d6fae39e-275f-45d5-a97d-6de2b5264ce3" />
+<img width="862" height="607" alt="image" src="https://github.com/user-attachments/assets/e53539b8-79fe-4fe4-a8cc-ce9d8c770b96" />
 </p>
 
 ## 6. Configure the Accounting Share
