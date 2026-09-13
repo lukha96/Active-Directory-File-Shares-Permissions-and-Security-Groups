@@ -146,7 +146,7 @@ Add the normal domain user to:
 Log out of Client-1 and sign back in so the user's new group membership is applied.
 
 <p>
-<img width="1282" height="682" alt="image" src="https://github.com/user-attachments/assets/e2b037ea-89e8-4fa9-89c7-44d29485f989" />
+<img width="965" height="690" alt="image" src="https://github.com/user-attachments/assets/58ae5ef2-1e45-4b54-ae59-be66f134663b" />
 </p>
 
 ## 9. Verify Access
